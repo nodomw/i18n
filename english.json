@@ -129,6 +129,10 @@
         "settings-sounds-desc": "When enabled, certain interface elements and notifications will have subtle sounds.",
         "settings-manualupdate": "Trigger manual update",
         "settings-manualupdate-desc": "Click this button to trigger a manual update.",
+        "settings-informationarea": "Display information area",
+        "settings-informationarea-desc": "Whether the information area below the editor should be shown.",
+        "settings-tokenizationlines": "Maximum characters to tokenize per line",
+        "settings-tokenizationlines-desc": "Controls the number of characters that is styled per editor line.",
 
         "settings-minimap-opt1": "No minimap",
         "settings-minimap-opt2": "Minimap on right",
