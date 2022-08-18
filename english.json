@@ -133,6 +133,8 @@
         "settings-informationarea-desc": "Whether the information area below the editor should be shown.",
         "settings-tokenizationlines": "Maximum characters to tokenize per line",
         "settings-tokenizationlines-desc": "Controls the number of characters that is styled per editor line.",
+        "settings-scrollspeed": "Editor scroll speed",
+        "settings-scrollspeed-desc": "Adjusts the speed at which the mouse scrolls in the editor.",
 
         "settings-minimap-opt1": "No minimap",
         "settings-minimap-opt2": "Minimap on right",
