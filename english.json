@@ -53,6 +53,8 @@
 
         "settings-experimentalsettings": "Experimental settings",
         "settings-experimentalsettings-desc": "Enable or disable access to experimental, potentially unstable settings.",
+        "settings-debugmode": "Debug mode",
+        "settings-debugmode-desc": "Enable or disable debug mode features. Requires a restart.",
         "settings-minimap": "Minimap",
         "settings-minimap-desc": "Configure the editor minimap.",
         "settings-editorstyle": "Editor action bar position",
