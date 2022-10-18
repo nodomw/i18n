@@ -4,10 +4,6 @@
 
     "translation": {
         "page-editor": "Editor",
-        "dialog-ok": "Ok",
-        "dialog-cancel": "Cancel",
-        "dialog-yes": "Yes",
-        "dialog-no": "No",
         "contextmenu-execute": "Execute",
         "contextmenu-mount": "Mount",
         "sidebar-files": "Local files",
@@ -35,8 +31,27 @@
         "button-execute-file": "Execute file",
         "button-save-file": "Save file",
 
-        "page-settings": "Settings",
+        "dialog-ok": "Ok",
+        "dialog-cancel": "Cancel",
+        "dialog-yes": "Yes",
+        "dialog-no": "No",
+        "dialog-dismiss": "Dismiss",
+        "dialog-allow": "Allow",
+        "dialog-deny": "Deny",
+        "dialog-close": "Close",
 
+        "control-generic-browse": "Browse",
+        "control-pathpicker-location": "Currently located at:",
+        "control-filepicker-selectfiles": "Select file(s)",
+        "control-filepicker-selectdir": "Select directory",
+        "control-strings-add-dialog-title": "New value",
+        "control-strings-add-dialog-contents": "Input your new value below.",
+
+        "page-engine": "Engine Settings",
+        "engine-general": "General",
+        "engine-no-instances": "Please open an instance to view settings.",
+
+        "page-settings": "Settings",
         "settings-category-editor": "Editor",
         "settings-category-interface": "Interface & layout",
         "settings-category-console": "Console & logging",
@@ -165,52 +180,30 @@
         "theme-reset-desc": "This will reset all layout-related settings to their defaults.",
         "theme-page-configuration": "Theme-specific configuration",
         "theme-page-layout": "Interface layout",
+        "theme-error-title": "Theme error",
+        "theme-error-p1": "An error has occured while applying theme.",
+        "theme-error-p2": "Do you want to reset theme settings?",
 
-        "login-login": "Login",
-        "login-register": "Register",
-        "login-back": "Back",
+        "page-powertools": "Powertools",
+        "powertool-installing": "Installing powertool",
+        "powertool-installed": "Installed powertool!",
+        "powertool-removing": "Removing powertool",
+        "powertool-removed": "Removed powertool!",
+        "powertool-failed": "Install failed",
+        "powertool-langserver-dialog-title": "Language server",
+        "powertool-langserver-dialog-contents": "You can only have one language server installed at a time. Do you want to uninstall the current one?",
+        "powertool-status-loaded": "Loaded",
+        "powertool-status-available": "Install",
+        "powertool-status-removable": "Uninstall",
+        "powertool-status-disabled": "Disabled",
+        "powertool-permissions": "Authorized permissions",
 
-        "login-form-username": "Username",
-        "login-form-password": "Password",
-        "login-form-confirm-password": "Confirm Password",
-        "login-form-email": "Email address",
-        "login-form-license": "License key",
-        "login-form-alzheimers": "Forgot your password?",
-
-        "login-registration-username-fail": "Your username needs to be at least 5 exclusively alphanumeric characters and cannot be exclusively numbers.",
-        "login-registration-password-fail": "Your password needs to have at least 10 characters and at least 1 special character.",
-        "login-registration-email-fail": "Your personal email address is invalid.",
-
-        "login-2fa-email-not-registered-title": "Email not verified",
-        "login-2fa-email-not-registered-text": "The email address currently attached to your account isn't verified. An email has been sent with a link to confirm your address.",
-        "login-2fa-email-not-registered-error": "The email resend has failed.",
-        "login-2fa-email-not-registered-feedback": "The confirmation email has been resent. Please verify your inboxes.",
-        "login-2fa-email-change-title": "Email change",
-        "login-2fa-email-change-text": "Input your new email address below.",
-        "login-2fa-email-change-error": "Your email change has failed.",
-        "login-2fa-email-change-feedback": "Your email has been successfully changed, and a new confirmation email has been sent. Please verify your inboxes.",
-
-        "login-password-reset": "Reset Password",
-        "login-password-reset-pre": "Enter your username or email below. You will receive a password change confirmation to your email address.",
-        "login-password-reset-pre-feedback": "If this account or email exists, you will receive a password reset email very soon. Make sure to check your spam/junk folders.",
-        "login-password-reset-text": "By resetting your password, files you encrypted with the Synapse user encryption/signing API will not be able to be decrypted. Make sure you truly lost your password before continuing!",
-        "login-password-reset-confirm": "Confirm your password again to make sure you have properly written it.",
-        "login-password-illiterate": "Your password confirmation was wrong. Please try again.",
-        "login-password-success": "Your password has been successfully reset. You will now be logged into your account.",
-
-        "login-2fa-otp-email": "A one-time password has been sent to the email address associated with your account.",
-        "login-2fa-otp-2auth": "Please enter the one-time code generated by your authenticator app.",
-        "login-2fa-otp-error": "Your one-time code is invalid. Please input it again.",
+        "page-documentation": "Documentation",
 
         "login-status-loggingin": "Logging in as ",
-        "login-status-registering": "Registering new account ",
-
         "login-corner-site": "Visit Synapse website",
         "login-corner-twitter": "Visit Synapse twitter",
         "login-corner-status-good": "Synapse servers are online.",
-        "login-corner-status-bad": "Synapse servers are offline.",
-
-        "login-soft-blacklist": "Your license has been revoked for infringing our terms of service. You cannot access Synapse X unless you re-purchase a new license.",
-        "login-hard-blacklist": "Your account is blacklisted for infringing our terms of service. You have been prohibited from using Synapse X."
+        "login-corner-status-bad": "Synapse servers are offline."
     }
 }
