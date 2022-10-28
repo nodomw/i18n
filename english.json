@@ -5,7 +5,7 @@
     "translation": {
         "page-editor": "Editor",
         "contextmenu-execute": "Execute",
-        "contextmenu-mount": "Open",
+        "contextmenu-mount": "Mount",
         "sidebar-files": "Local files",
         "sidebar-files-diropen": "Open directory",
         "sidebar-gists": "Gists",
